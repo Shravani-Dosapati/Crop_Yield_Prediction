@@ -24,3 +24,6 @@ The model takes the following inputs to generate a prediction:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/Shravani-Dosapati/Crop_Yield_Prediction.git](https://github.com/Shravani-Dosapati/Crop_Yield_Prediction.git)
+
+app url: ' https://huggingface.co/spaces/dosapatishravani/crop_yield_prediction '
+
